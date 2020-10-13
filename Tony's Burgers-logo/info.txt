@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: SixCaps
+font link: https://www.fontsquirrel.com/fonts/six-caps
+font author: Vernon Adams
+font author site: https://www.behance.net/vernonadams
+
+
+icon designer: stolkramaker
+icon designer link: /stolkramaker
+        
+
+fontColor: {"hex":"#B85E2B"}
+bgColor: {"hex":"#F6F5F0"}
+iconColor: {"hex":"#B85E2B"}
+
+      

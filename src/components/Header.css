@@ -1,0 +1,25 @@
+.header img{
+    width: 200px;
+    height: 200px;
+    margin-top: -60px;
+    margin-bottom: -60px;
+    top: 0;
+}
+
+nav{  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.signup{
+    margin-left: 20px;
+    border: 1px solid var(--main-accent-color);
+    background-color: var(--main-accent-color);
+    color: white;
+    padding: 10px 25px;
+    border-radius: 20px;
+    font-weight: 800;
+}
+
