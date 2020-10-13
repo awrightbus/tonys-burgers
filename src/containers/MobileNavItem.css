@@ -1,0 +1,15 @@
+.mobile-nav-item{
+    display: flex;
+   justify-content: space-evenly;
+   font-family: var(--main-font);
+   color: var(--main-accent-color);
+       
+}
+
+
+ul li{
+
+    list-style-type: none;
+} 
+
+

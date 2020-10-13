@@ -1,10 +1,11 @@
 import React from 'react'
-import Hero from '../components/Hero'
+import Hero from './Hero'
 
 function HomePage() {
     return (
         <div className='homepage'>
             <Hero />
+            {/* homePageCards */}
         </div>
         
     )

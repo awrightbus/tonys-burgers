@@ -1,0 +1,10 @@
+.mobileNav{
+
+border-top: 1px solid var(--main-accent-color);
+padding: 15px 0px;
+position:absolute;
+left:0;
+bottom:0;
+right:0;
+}
+

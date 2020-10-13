@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Header from './components/Header'
 import HomePage from './components/HomePage'
+import  MobileNav from './components/MobileNav'
 
 
 function App() {
@@ -9,8 +10,7 @@ function App() {
     <div className="app">
         <Header />
         <HomePage />
-        {/* Footer */}
-        {/* MobileNav */}
+        <MobileNav />
     </div>
   );
 }

@@ -24,10 +24,24 @@
     text-align: center;
 }
 
-h2 {
+.hero-cta h2 {
     text-transform: uppercase;
     margin: 0;
     font-size: 2.5rem;
-    font-family: 'Luckiest Guy', cursive;
+    font-family: var(--main-font);
     color: #da6827;
   }
+
+.hero-cta p{
+    text-transform: uppercase;
+    margin: 0;
+    font-size: 1.2rem;
+    font-family: var(--main-font);
+    border-radius: 20px;
+    background-color: var(--main-accent-color);
+    padding: 10px 0px;
+    color: white;
+}
+
+
+
